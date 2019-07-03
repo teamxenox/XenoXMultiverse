@@ -15,3 +15,4 @@
 ## The Team
 
 1. Sarthak Sharma 🔥 
+2. Ganesh Mani :boy:
