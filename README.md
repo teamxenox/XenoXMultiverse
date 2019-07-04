@@ -14,9 +14,9 @@ If you want to be one of us, just write your name and you're in!
 
 That's it. You're all set. Someone from the team will contact you and formally welcome you to the team. Cheers!
 
-
 ## The Team
 
-1. Sarthak Sharma 🔥 
+1. Sarthak Sharma 🔥
 2. Utkarsh Talwar 🎸
 3. Rajat Sharma 🎧
+4. Anx :trident:
