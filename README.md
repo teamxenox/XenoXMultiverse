@@ -21,3 +21,4 @@ That's it. You're all set. Someone from the team will contact you and formally w
 2. Utkarsh Talwar 🎸
 3. Rajat Sharma 🎧
 4. Rajesh Mainali :musical_note:
+5. Mayank Garg 👨‍💻
