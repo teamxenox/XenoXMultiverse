@@ -22,3 +22,5 @@ That's it. You're all set. Someone from the team will contact you and formally w
 3. Rajat Sharma 🎧
 4. Rajesh Mainali :musical_note:
 5. Pavan Jadhaw 🍀
+6. Vikas Yadav 🖥 
+
