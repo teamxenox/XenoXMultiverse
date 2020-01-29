@@ -17,8 +17,11 @@ That's it. You're all set. Someone from the team will contact you and formally w
 
 ## The Team
 
-1. Sarthak Sharma 🔥 
-2. Utkarsh Talwar 🎸
-3. Rajat Sharma 🎧
-4. Rajesh Mainali :musical_note:
-5. [theapache64](https://github.com/theapache64) 🚁
+- Sarthak Sharma 🔥
+- Utkarsh Talwar 🎸
+- Rajat Sharma 🎧
+- Rajesh Mainali :musical_note:
+- Pavan Jadhaw 🍀
+- Vikas Yadav 🖥 
+- theapache64 🚁
+
