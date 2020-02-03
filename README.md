@@ -23,5 +23,5 @@ That's it. You're all set. Someone from the team will contact you and formally w
 - Rajesh Mainali :musical_note:
 - Pavan Jadhaw 🍀
 - Vikas Yadav 🖥 
-- theapache64 🚁
+- [theapache64](https://github.com/theapache64) 🚁
 
