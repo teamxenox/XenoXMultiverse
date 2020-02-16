@@ -17,11 +17,11 @@ That's it. You're all set. Someone from the team will contact you and formally w
 
 ## The Team
 
-- Sarthak Sharma 🔥
-- Utkarsh Talwar 🎸
-- Rajat Sharma 🎧
-- Rajesh Mainali :musical_note:
-- Pavan Jadhaw 🍀
-- Vikas Yadav 🖥 
+- [Sarthak Sharma](https://github.com/sarthology) 🔥
+- [Utkarsh Talwar](https://github.com/sarthology) 🎸
+- [Rajat Sharma](https://github.com/sharmarajat01) 🎧
+- [Rajesh Mainali](https://github.com/Stereoraj) :musical_note:
+- [Pavan Jadhaw](https://github.com/pavanjadhaw) 🍀
+- [Vikas Yadav](https://github.com/thejsdeveloper) 🖥 
 - [theapache64](https://github.com/theapache64) 🚁
 
