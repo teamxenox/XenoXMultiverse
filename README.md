@@ -30,7 +30,7 @@ That's it. You're all set. Someone from the team will contact you and formally w
 ## The Projects
 
 ### 1. Caligator
-👉🏽*[Link](https://github.com/teamxenox/caligator)*
+👉🏽[*Link*](https://github.com/teamxenox/caligator)
 A kickass, open-source calculator that lets you do calculations and unit conversions naturally, with features like:
 -Currency conversion
 -Weight and length conversion
@@ -38,19 +38,29 @@ A kickass, open-source calculator that lets you do calculations and unit convers
 -Percentage and ratio calculation
 -Cross-platform functionality
 
-### 2. Ovuli CLI
+### 2. Ovuli
+
 
 
 ### 3. ProGram CLI
 
+CLI based, self-hosted Instagram-esque gallery. You can think of it as Instagram for programmers who want to keep their data secure while still being able to showcase their best shots. It creates an beautiful, Instagram style gallery for all your photos, and you're free to host it anywhere. Just upload your photos, add cool filters, and post them. You can fully customize the webpage too!
+
 
 ### 4. Dragula
 
+A free stock images tool on steroids. Get awesome Unsplash stock images and easily drag-n-drop them anywhere on your screen! You can:
+1) Search with keywords
+2) Download images
+3) Copy links or markdown codes of images you like
+4) Drag-and-drop images anywhere on your screen!
 
 ### 5. Brogrammer
 
+Long working hours make it hard to beat a sedentary lifestyle and stay fit. Brogrammer is for all the busy bees. Easily squeeze mini workouts in your busy schedule and keep your body moving, even if you don't have time to go to the gym. Brogrammer is meant to help you break sedentary lifestyle patterns and squeeze mini workouts into your busy routines. 🏃‍♂️ It's as easy as clicking a button, and the web-app will keep sending you alerts 📢 every once in a while to perform a random exercise for x duration or y number of repetitions. If you want more control, just create your own challenge and set parameters like type of exercises, level of difficulty, frequency of alerts, and more.
+
 ### 6. DEV CLI
-👉🏽*[Link](https://github.com/teamxenox/devtocli)*
+👉🏽[*Link*](https://github.com/teamxenox/devtocli)
 Want DEV.to on your terminal? Now you can! CLI app for DEV.to which lets you:
 - Check the top posts
 - Check top posts by tag
@@ -61,17 +71,37 @@ Want DEV.to on your terminal? Now you can! CLI app for DEV.to which lets you:
 
 ### 7. DEV 10
 
+A simple menubar app for DEV.to, one of our favorite communities. Features:
+1. Check top posts on DEV
+2. Check latest posts from top 100 topics
+3. Save posts in your Piggy List 🐷 to read later.
+4. Use tags to filter posts.
+5. And the all new DARK MODE!
 
 ### 8. Nomoogle
 
+Nomoogle allows users to reduce the influence of Google in their lives.
+1. Popup reminders when you try to access a Google product.
+2. Easily find alternatives to Google products with just one click.
+3. Two special modes: Redirect Mode and Strict Mode.
 
 ### 9. CriCLI
 
+Awesome little open-source app for programmers who love cricket! Enjoy live scores and commentary right in your terminal.
 
 ### 10. Youtube Detox
 
-
+It is no secret that many of us open Youtube to look up something important but get distracted by our home feed and end up wasting hours on end. 🤦🏽‍♀️ Youtube Detox is a simple, minimal webpage that helps you search in a distraction-free manner. 💯
 
 ### 11. ModDoc
 
+MoDDoC is a one-of-its-kind app that lets you easily read the documentation for any node modules in your projects. Here are some features:
+1. Open multiple projects together
+2. See all dependencies
+3. Offline access
+4. Quick copy widget
+5. In-app browser
 
+### Animatopy
+
+Just-add-water CSS animations snippets for animate.css library. Why download the whole library for a few animations when you can copy specific code snippets?
