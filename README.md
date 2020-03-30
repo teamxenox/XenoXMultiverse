@@ -4,7 +4,7 @@
 
 We're making things official with the beginning of XenoX Multiverse. Team XenoX started as my dream, just a small team of devs working on open-source projects for the fun of it. But over the months, it has grown bigger and stronger. So with this, I want to formally announce the Team XenoX open source initiative. This is where the master list of all the projects and all the devs collaborating on XenoX will live.
 
-If you want to be one of us, just write your name and you're in!
+If you want to be an Open Source Hero too, just write your name and you're in and start contributing!
 
 ## How to join the Team? 💪🏼
 
