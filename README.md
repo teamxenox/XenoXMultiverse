@@ -30,9 +30,7 @@ That's it. You're all set. Someone from the team will contact you and formally w
 ## The Projects
 
 ### 1. Caligator
-
 👉🏽[*Link*](https://github.com/teamxenox/caligator)
-
 A kickass, open-source calculator that lets you do calculations and unit conversions naturally, with features like:
 -Currency conversion
 -Weight and length conversion
@@ -41,22 +39,16 @@ A kickass, open-source calculator that lets you do calculations and unit convers
 -Cross-platform functionality
 
 ### 2. Ovuli CLI
-
 👉🏽[*Link*](https://github.com/teamxenox/ovuli-cli)
-
 Ovuli is a simple ovulation cycle calculator that you can access from your terminal. As menstrual periods differ from woman to woman and even month to month, this tool can help you keep track of your ovulation cycle and find your most fertile days.
 We're also working on a mobile app for Ovuli, which is also open-source and can be found [here](https://github.com/sarthology/ovuli)!
 
 ### 3. ProGram CLI
-
 👉🏽[*Link*](https://github.com/sarthology/proGramCLI)
-
 CLI based, self-hosted Instagram-esque gallery. You can think of it as Instagram for programmers who want to keep their data secure while still being able to showcase their best shots. It creates an beautiful, Instagram style gallery for all your photos, and you're free to host it anywhere. Just upload your photos, add cool filters, and post them. You can fully customize the webpage too!
 
 ### 4. Dragula
-
 👉🏽[*Link*](https://github.com/sarthology/dragula)
-
 A free stock images tool on steroids. Get awesome Unsplash stock images and easily drag-n-drop them anywhere on your screen! You can:
 1) Search with keywords
 2) Download images
