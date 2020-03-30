@@ -26,7 +26,6 @@ That's it. You're all set. Someone from the team will contact you and formally w
 - [theapache64](https://github.com/theapache64) 🚁
 - [Bassem Mohamed](https://github.com/BassemMohamed) 🚴‍
 
-
 ## The Projects
 
 ### 1. Caligator
@@ -113,3 +112,4 @@ An open source bot which helps you self-diagnose symptoms of COVID-19 and get ot
 ### 14. Auto-Motion
 👉🏽[*Link*](https://github.com/teamxenox/auto-motion)
 A CLI program to automate much of your video-editing workflows with minimum input.
+
