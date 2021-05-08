@@ -9,7 +9,7 @@ If you want to be an Open Source Hero too, just write your name and you're in an
 ## How to join the Team? 💪🏼
 
 1. Fork the repo.
-2. Add your name to this file.
+2. Add your name to this file. :file_folder:
 3. Submit a pull request.
 
 That's it. You're all set. Someone from the team will contact you and formally welcome you to the team. Cheers!
@@ -25,7 +25,7 @@ That's it. You're all set. Someone from the team will contact you and formally w
 - [Vikas Yadav](https://github.com/thejsdeveloper) 🖥 
 - [theapache64](https://github.com/theapache64) 🚁
 - [Bassem Mohamed](https://github.com/BassemMohamed) 🚴‍
-
+- [Brian Coates](https://github.com/I-Cat) :smiley_cat: @I-Cat
 ## The Projects
 
 ### 1. Caligator
